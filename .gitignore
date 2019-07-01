@@ -1,0 +1,6 @@
+*.pdf
+*.json
+Vagrantfile
+*.sh
+CDM
+.vagrant

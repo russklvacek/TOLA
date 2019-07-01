@@ -1,0 +1,968 @@
+Item,Paper,Content
+0,0712.1768v1.Conceptions_et_usages_des_plates_formes_de_formation_Revue_Sciences_et_Technologies_de_l_Information_et_de_la_Communication_pour_l_Éducation_et_la_Formation.pdf," Sébastien GEORGE, Alain DERYCKE, Conceptions et usa
+ges des plates-formes de 
+formation,  
+
+Article envoyé pour publication dans la 
+Revue STICEF
+ (Vol. 12, 2005, p. 51-64) 
+ 
+ Conceptions et usages des  
+
+plates-formes de formation  
+  Sébastien GEORGE (ICTT, INSA de Lyon), 
+Alain DERYCKE (TRIGONE, Université de Lille 1) 
+
+  Les plates-formes de formation sont au cœur du déve
+loppement de la 
+formation en ligne. Composantes à part entière des 
+dispositifs de forma-
+tion, on ne peut les réduire aux seuls aspects tech
+nologiques. En effet, les 
+modèles sous-jacents conditionnent la formation dan
+s son ensemble, de 
+la préparation des enseignements jusqu™au dérouleme
+nt des sessions 
+d™apprentissage. Les recherches liées à ces plates-
+formes sont nombreuses 
+et leurs enjeux sont importants. C™est ce qui nous 
+a incité à lancer un 
+appel à numéro spécial sur le thème « Conceptions e
+t usages des plates-
+formes de formation ».  
+Une plate-forme de formation est un « système infor
+matique destiné à 
+automatiser les diverses fonctions relatives à l'or
+ganisation des cours, à la 
+gestion de leur contenu, au suivi des progrès des p
+articipants et à la su-
+pervision des personnes responsables des différentes
+ formations » (Office 
+de la langue française, 2005). L™équivalent anglais
+ est 
+Learning Manage-
+ment System
+ (LMS). Notons qu™actuellement les activités pédago
+giques 
+sont davantage mises en avant, ce qui nous conduit 
+à compléter la défini-
+tion ci-dessous : une plate-forme peut être vue com
+me un système qui 
+permet de gérer et de donner accès à un ensemble d™a
+ctivités et de res-
+sources pédagogiques. 
+À l™origine, ce numéro spécial avait pour objectif, 
+d™une part, de discu-
+ter des utilisations et expériences des plates-form
+es éducatives et, d™autre 
+part, de proposer des technologies ou techniques de
+ conception et de 
+développement en lien avec les plates-formes. Nous 
+avons constaté, à la 
+réception des articles, que peu de soumissions conc
+ernaient les utilisa-
+tions des plates-formes éducatives et que la plupar
+t avaient une approche 
+assez technologique. De ce fait, la coloration donn
+ée à ce numéro spécial 
+est plus informatique que ce qui avait été escompté
+ à l™origine.  
+ 
+   
+ Au total, nous avons reçu 24 contributions. Après de
+ux phases de re-
+lecture, 9 articles et 2 rubriques ont finalement ét
+é retenus. Nous avons 
+choisi de découper ce numéro en 4 thèmes qui reflèt
+ent d™une certaine 
+manière l™organisation du domaine telle que nous le
+ percevons : 
+(1) ingénierie des plates-formes : approche dirigée
+ par les modèles (3 
+articles) ; 
+(2) indexation des objets pédagogiques (3 articles e
+t 1 rubrique) ; 
+(3) analyse de traces d™activités dans les plates-f
+ormes (1 article) ; 
+(4) supports pour l™échange et l™interopérabilité au
+ sein d™une commu-
+nauté de recherche en EIAH (2 articles et 1 rubrique
+). 
+Le premier thème concerne l™architecture et l™ingén
+ierie des plates-
+formes. Les problèmes posés touchent directement aux
+ situa-
+tions/scénarios pédagogiques et à leur mise en plac
+e : comment faire en 
+sorte que les plates-formes de formation soutiennen
+t au mieux la modéli-
+sation des activités pédagogiques ? Dans les contri
+butions retenues pour 
+ce numéro spécial, nous constatons la prédominance 
+d™approches venant 
+du domaine du génie logiciel. Plus précisément, les
+ approches orientées 
+modèles semblent retenir l™attention des chercheurs 
+qui s™attaquent aux 
+problématiques liées aux scénarios pédagogiques : mo
+dèles pour leur 
+conception, modèle pour leur représentation, pour l
+eur mise en œuvre, 
+etc. 
+Le deuxième thème de recherche, complémentaire du p
+récédent, est 
+lié aux ressources/objets pédagogiques et s™intéress
+e aux objets informati-
+ques qui décrivent les contenus et connaissances d™
+un domaine à ensei-
+gner. Les questions qui se posent au sujet des objet
+s pédagogiques sont 
+nombreuses : conception, structuration, description,
+ indexation, partage, 
+recherche, réutilisation, assemblage, intégration, e
+tc. Les contributions de 
+ce numéro dans ce thème abordent essentiellement les
+ modèles de des-
+cription et la recherche des objets pédagogiques. 
+Le troisième thème concerne l™utilisation des plate
+s-formes. Les pro-
+blématiques, souvent pluridisciplinaires, touchent à
+ l™analyse des proces-
+sus de mise en œuvre de plates-formes, à l™étude de
+s impacts des plates-
+formes sur les contenus et sur l™organisation des f
+ormations et à 
+l™observation des utilisations réelles que font les 
+différents acteurs des 
+plates-formes. Les questions sous-jacentes sont cel
+les des méthodes et des 
+outils pour recueillir et analyser les informations
+ sur les activités qui se 
+déroulent. Nous avons reçu peu de contributions dire
+ctement dans ce 
+thème, même s™il est vrai que la plupart des recher
+ches du domaine abor-
+ 
+ 
+ 
+ 
+ dent des questions d™utilisation afin de valider le
+urs modèles ou comme 
+méthode de conception. Au final, un article se situ
+e dans le thème de 
+l™utilisation et aborde une question majeure, celle 
+de l™analyse des traces 
+d™activités d™étudiants. 
+Enfin, le quatrième thème est d™une autre nature. I
+l s™agit du support à 
+la communauté de recherche en EIAH. Les EIAH produi
+ts ont, pendant 
+longtemps, été conçus et développés de manière isol
+ée, pour des besoins 
+spécifiques. Le domaine de recherche des EIAH souff
+re parfois d™une « dif-
+ficulté à capitaliser les ‚‚briques™™ qui sont ici e
+t là construites à la faveur 
+d'une thèse ou d'un projet » (RTP39, 2002). Ainsi, 
+l™efficacité de la recher-
+che en EIAH est faible en termes de mutualisation et
+ de capitalisation des 
+objets techniques produits. Cette considération ne d
+oit pas rester à la 
+marge mais doit devenir une préoccupation centrale 
+car elle conditionne-
+ra la capacité de la communauté à développer et à c
+onforter son activité 
+scientifique. La question centrale est de voir comm
+ent il est possible de 
+favoriser la mutualisation des outils, composants e
+t prototypes logiciels 
+développés par la communauté de recherche. 
+1. Ingénierie des plates-formes : approche dirigée 
+par les 
+modèles 
+Les premiers travaux sur les plates-formes éducativ
+es se sont concen-
+trés sur les ressources à mettre à disposition aux 
+apprenants. Depuis, des 
+recherches ont placé en position centrale les activ
+ités pédagogiques et 
+non les ressources (Koper, 2000 ; Koper et Tattersa
+ll, 2005), sans pour 
+autant négliger les ressources pédagogiques nécessa
+ires à la réalisation des 
+activités (voir thème 2).  
+Rob Koper, de l™Université Ouverte des Pays-Bas, s'e
+st démarqué en 
+s™intéressant à la modélisation pédagogique pour mi
+eux répondre à l'inté-
+gration effective des technologies dans la formatio
+n. Il a conçu un lan-
+gage de modélisation pédagogique nommé EML (
+Educational Modelling 
+Language
+) qui est à l™origine du standard adopté par IMS en
+ 2003 : 
+IMS-
+Learning Design
+ (IMS-LD, 2003). Dans IMS-LD, le scénario pédagogiq
+ue est 
+décrit comme une mise en scène (métaphore théâtrale
+). Une pièce est 
+composée d™actes, eux mêmes composés de partitions 
+qui associent un 
+rôle à une activité effectuée dans un environnement
+. Un acteur peut alors 
+être un apprenant ou un enseignant qui encadre l™ac
+tivité.  
+Selon Guéraud 
+et al.
+ (2004), « un scénario pédagogique est défini par :
+  
+- la situation initiale et l'objectif à atteindre ; 
+ 
+   
+ - les situations correspondant aux étapes de résoluti
+on pertinentes ; 
+- les situations particulières à observer (contraintes
+ à respecter, erreurs 
+classiques, dangers potentiels,...) ; 
+- la réactivité permettant d™assister l™apprenant en 
+fonction de sa pro-
+gression ; elle détermine les réactions du système 
+(retours d™information, 
+aide, retour au début d™étape,...) associées aux dif
+férents contrôles (étape 
+réussie ou non, situation particulière atteinte, obj
+ectif atteint ou non). » 
+Dans ce numéro spécial, trois articles s™intéressen
+t au support de la 
+modélisation pédagogique dans les plates-formes de 
+formation. Ces trois 
+contributions adoptent toutes une approche génie log
+iciel et même, plus 
+précisément, une Ingénierie Dirigée par les Modèles
+ (IDM, ou MDE pour 
+Model Driven Engineering
+). « L'IDM se distingue des méthodes de modélisa-
+tions traditionnelles [–] par la préoccupation cons
+tante de rendre les 
+(meta) modèles productifs plutôt que contemplatifs 
+» (Bézivin 
+et al.
+, 
+2004). Le lecteur pourra se référer à des travaux e
+ntièrement dédiés à 
+l™IDM (ASMDA, 2006 ; Schmidt, 2006) ou à l™IDM pour
+ les EIAH (Node-
+not, 2005). Les contributions de ce numéro abordent l
+es questions suivan-
+tes : le support à l™ingénieur pédagogique ou, de m
+anière générale, à 
+l™équipe de conception, les langages
+ semi-formels de modélisation de 
+scénarios pédagogiques et le support à l™exécution 
+de scénarios. Voici un 
+bref résumé de leurs apports.  
+Corbière et Choquet
+ partent de résultats provenant de la communau-
+té génie logiciel pour définir un cadre visant à su
+pporter une communau-
+té de concepteurs d™un système de formation. Le mod
+èle ODP-RM (
+Open 
+Distributed Processing Œ Reference Mode
+l), cadre de développement proposé 
+par l™ISO, est alors interprété dans le contexte de
+ l™ingénierie des EIAH 
+dans l™objectif de formaliser la communication entre
+ concepteurs de tels 
+systèmes. Les normes des technologies éducatives (I
+MS-LD, LOM, SCORM 
+entre autres) sont abordées selon un point de vue r
+étroconception et réin-
+génierie, mettant ainsi en avant l™aspect évolutif 
+de tout système de for-
+mation. Les auteurs illustrent le modèle proposé au
+ travers de deux 
+utilisations : la rétroconception d™un EIAH, c™est-
+à-dire le fait de le spéci-
+fier avec plus de détails ; la réingénierie d™un EI
+AH, pour guider des 
+concepteurs dans les modifications à effectuer (dém
+arche qualité). Dans 
+les deux cas,  le cadre ODP-RM aide à mieux explici
+ter les systèmes dans le 
+but fédérer des expériences de formation. 
+Suivant également une approche issue du génie logic
+iel,
+ Laforcade, 
+Nodenot et Sallaberry 
+proposent une représentation graphique pour la 
+ 
+ 
+ 
+ 
+ modélisation des situations pédagogiques. Ils prése
+ntent un langage 
+nommé CPM (
+Coopérative Problem-based learning Metamodel
+), spécialisation 
+d™UML, encore appelé « profil UML », orienté vers l
+a conception de situa-
+tions-problèmes coopératives. La cible première est l
+™ingénieur pédagogi-
+que lors de l™étape d™expression initiale des besoi
+ns. Ce langage CPM a été 
+implanté dans un atelier de génie logiciel (
+objecteering/UML
+). Une expéri-
+mentation du prototype conçu a permis de valider l™
+approche qui serait 
+exploitable pour d™autres types de situations pédago
+giques. La vocation 
+principale du langage graphique CPM est de facilite
+r la communication 
+dans les phases initiales de conception d™une situa
+tion pédagogique, mais 
+il n™y a pas encore de méthode associée qui guidera
+it la conception. Une 
+perspective intéressante est alors de voir comment 
+relier ce type de lan-
+gage à d™autres langages plus universels comme IMS-
+LD se situant dans 
+des phases plus aval de la conception. Pour cela, l
+es auteurs proposent 
+une première ébauche consistant à générer automatiqu
+ement un fichier 
+XML conforme à la spécification IMS-LD à partir d™u
+n diagramme 
+d™activité décrit avec CPM. C™est un premier pas ve
+rs une méthode 
+d™ingénierie pédagogique qui serait dirigée par des
+ modèles.  
+Les travaux de 
+Vantroys et Peter
+ se situent également dans le do-
+maine de l™ingénierie des EIAH avec une approche fo
+rtement orientée 
+modèle. Leur article commence par une description p
+récise du concept de 
+scénario pédagogique, en termes de conception et d™
+utilisation. Pour com-
+pléter cette description, les rôles que l™on peut r
+encontrer dans une plate-
+forme de formation font l™objet d™une classification
+. Selon les auteurs, les 
+plates-formes actuelles se focalisent trop sur l™ac
+cès aux ressources et pas 
+assez sur la scénarisation des activités. Ils propo
+sent alors un système pour 
+supporter le plus complètement possible les scénario
+s pédagogiques dans 
+les plates-formes, notamment leur exécution. Une im
+plémentation du 
+système a été réalisée sous forme de service web que
+ toute plate-forme 
+peut utiliser. Le système repose sur un moteur de 
+workflow
+, nommé COW 
+(Cooperative Open Workflow
+), qui a été réalisé en respectant le standard 
+WMF (
+Workflow Managment Facility
+) de l™OMG et langage standard de 
+spécification externe des flots de travail XPDL. Po
+ur valider l™approche, la 
+connexion de COW avec la plate-forme « Campus Virtu
+el » a été réalisée 
+avec succès. Pour le moment COW fonctionne avec un 
+langage de modé-
+lisation de scénarios pédagogiques spécifique (COW 
+Language
+), qui est 
+ensuite traduit en XPDL,
+ même si un futur support de IMS-LD est prévu. 
+Le schéma suivant (figure 1) synthétise les contribu
+tions précédentes, 
+avec une cartographie simplifiée permettant de les 
+positionner les unes 
+ 
+   
+ par rapport aux autres. Ce schéma a été réalisé en 
+utilisant la technique de 
+modélisation par objets typés MOT (Paquette, 2002). 
+ Figure 1 Ł Synthèse des contributions sur le thème 
+ « Ingénierie des plates-formes : approches génie l
+ogiciel » 
+2. Indexation des objets pédagogiques 
+Selon l™IEEE, un objet pédagogique ou objet d'apprent
+issage (
+Learning 
+Object
+) est une entité sur support informatique ou non, q
+ui peut être utili-
+sée, réutilisée ou référencée dans une activité de 
+formation assistée par 
+ordinateur (IEEE, 2005). Se posent alors des questi
+ons autour des modali-
+tés de structuration des objets pédagogiques et de d
+escription de leur 
+contenu (métadonnées). Les enjeux concernent la réu
+tilisation des objets 
+pédagogiques et la possibilité de fournir des appren
+tissages individualisés.  
+Les travaux sur la description de contenus ont donn
+é lieu à la défini-
+tion de schémas de métadonnées pédagogiques. Un sta
+ndard internatio-
+nal a alors émergé, LOM (
+Learning Object Metadata
+), proposant un modèle 
+de description des métadonnées associées à des objet
+s pédagogiques. LOM 
+est défini comme étant « 
+the attributes required to fully/adequately describ
+e a 
+Learning Object 
+» (IEEE, 2005). Cependant, LOM ne convient pas forc
+é-
+ment directement à tous les contextes d™utilisation
+. Il est alors possible de 
+définir des profils d™application du LOM, un profil
+ d™application étant une 
+ 
+ 
+ 
+ 
+ « personnalisation d™une norme pour répondre à des 
+communautés parti-
+culières de réalisateurs ayant des exigences commun
+es en matière 
+d™applications » (Lynch, 1997). De manière plus pré
+cise, un profil 
+d™application est « assemblage d™éléments de métadon
+nées choisis parmi 
+un ou plusieurs schémas de métadonnées et combinés p
+our former un 
+schéma composé. Les profils d™application permetten
+t de mettre en 
+œuvre 
+les principes de modularité et d™extension. L™object
+if d™un profil 
+d™application est d™adapter ou de combiner des schém
+as existants afin 
+d™obtenir un nouveau schéma conçu pour une applicati
+on particulière 
+tout en gardant l™interopérabilité avec le ou les sc
+hémas de base. Cette 
+adaptation peut inclure la définition d™éléments de
+ métadonnées locaux, 
+qui sont importants pour une communauté mais qui ne
+ le sont pas dans 
+un contexte plus large », traduction de l™AFNOR (20
+05) de Duval 
+et al.
+ (2002). Par exemple, dans le cadre d™une convention
+ liant le ministère de 
+l™éducation nationale à l™AFNOR, un profil d™applic
+ation français du LOM 
+(LOM.fr) a vu le jour (publié à titre expérimental e
+n août 2005). Le profil 
+ManUel, conçu pour le campus numérique C@mpuScience
+s® (De La Pas-
+sardière et Jarraud, 2004), constitue un autre exem
+ple français. 
+Lorsque l™on aborde la question de la réutilisation 
+des objets pédago-
+giques d™un point de vue technique, on parle alors 
+d™interopérabilité, qui 
+peut se définir comme étant « le caractère de ce qu
+i permet l™utilisation 
+des ressources d™enseignement et d™apprentissage dé
+veloppées par une 
+organisation dans un environnement technologique do
+nné par d™autres 
+organisations dans d™autres environnements technolo
+giques » (Normetic, 
+2005). Ainsi, un élément référencé dans une représe
+ntation doit pouvoir 
+aussi être référencé dans une autre représentation 
+(correspondance possi-
+ble). Nous retrouvons à ce niveau les viviers de con
+naissances ou LOR 
+(Learning Object Repository
+), lieux de stockage des objets pédagogiques. 
+Bourda et Delestre
+ cherchent à améliorer l™interopérabilité entre diff
+é-
+rents profils d™application du LOM, en définissant 
+un métamodèle afin de 
+favoriser la description standardisée des données u
+tilisées dans les diffé-
+rents profils. Le métamodèle proposé est fondé sur 
+des concepts et non 
+sur des termes. Cette solution a pour objectif d™évi
+ter les problèmes 
+d™interopérabilité actuelle : mettre sous le même no
+m de concepts distinc-
+ts ou bien utiliser des noms différents pour un même
+ concept. La sépara-
+tion de l™aspect conceptuel et de l™aspect représen
+tation, préconisée par la 
+norme ISO11179, est la base du schéma de métadonnées
+ conçu. Les au-
+teurs décrivent alors une architecture en 4 niveaux
+, reposant sur des 
+transformations successives de fichiers XML, partan
+t de la modélisation 
+ 
+   
+ conceptuelle du domaine à représenter et allant jus
+qu™à l™instanciation 
+pour un contexte donné. Cette architecture a été dé
+veloppée en partie et 
+devrait aboutir à terme sur un outil d™aide à la con
+ception de schémas de 
+métadonnées compatibles avec l™ISO11179. 
+Dans leur article, 
+Broisin et Vidal
+ s™intéressent à la virtualisation des 
+objets pédagogiques. Cette virtualisation consiste 
+à proposer une interface 
+fournissant une vue unifiée sur des objets se trouva
+nt dans des viviers de 
+connaissance distincts et ce de manière transparent
+e pour l™utilisateur. 
+Différents viviers de connaissance peuvent ainsi êt
+re fédérés, augmentant 
+le nombre de ressources disponibles à partir d™un out
+il unique. L™objectif 
+est de mettre à disposition un ensemble de ressource
+s aux utilisateurs tout 
+en leur fournissant des services associés (recherch
+e, accès, consultation, 
+–). En particulier, un service offre la possibilité 
+de générer automatique-
+ment un certain nombre des métadonnées, comme celles
+ de LOM, néces-
+saires à l™indexation des objets pédagogiques. Pour 
+finir, deux 
+expérimentations sont détaillées afin de valider l™
+architecture de virtuali-
+sation. Une interface de recherche d™objets pédagogi
+ques, prenant la 
+forme d™un moteur de recherche, offre à l™utilisate
+ur un accès à des res-
+sources provenant de trois viviers. La couche d™abst
+raction proposée a été 
+connectée avec succès à deux plates-formes d™appren
+tissage différentes. 
+Bouzeghoub, Defude, Duitama et Lecocq
+ tentent, quant à eux, 
+d™étendre les standards actuels en leur adjoignant 
+un modèle de descrip-
+tion sémantique des ressources pédagogiques, fondé 
+sur une ontologie de 
+domaine. Ainsi, en plus des caractéristiques défini
+es par LOM, une res-
+source est représentée par les pré-requis nécessair
+es, son contenu et une 
+fonction d™acquisition permettant de modifier le mo
+dèle de l™apprenant. 
+Cette description permet d™offrir des outils de rec
+herche et de composi-
+tion plus élaborés. Une implémentation de ce modèle 
+a été réalisée sous la 
+forme d™une base de données RDF qui dispose d™un lan
+gage de requête. 
+Des tests d™utilisation sont actuellement en cours.
+ La figure 2 donne une cartographie très générale po
+ur situer les trois 
+contributions sur le thème de l™indexation des objet
+s pédagogiques. 
+ 
+ 
+ 
+ 
+  Figure 2 Ł Synthèse des contributions sur le thème 
+ « Indexation des objets pédagogiques » 
+Dans leur rubrique,
+ Gebers, Campana, Ettori, Papi et Majada
+ décri-
+vent une architecture pour séparer les phases de pr
+oduction de contenu 
+(avec un LCMS, 
+Learning Content Management System
+) et celles de diffusion 
+(avec un LMS), ce qui peut s™avérer particulièremen
+t utile dans un 
+contexte d™industrialisation de la formation. Cette
+ approche présente un 
+intérêt certain au plan organisationnel mais peut c
+onduire à des problè-
+mes d™interopérabilité, nécessitant le recours à l™u
+tilisation de standards. 
+Les auteurs décrivent alors la mise en œuvre du pas
+sage au standard 
+SCORM dans leur dispositif de formation, et en ress
+ortent les inconvé-
+nients (perte de fonctionnalités,–) et les avantage
+s (meilleur suivi des 
+apprenants). En conclusion, l™architecture proposée
+, dissociant LCMS et 
+LMS, montre sa capacité à bénéficier rapidement de l
+™amélioration des 
+standards. 
+3. Analyse de traces d™activités dans les plates-fo
+rmes 
+Toutes les plates-formes de formation possèdent des
+ fonctionnalités de 
+recueil et de stockage d™information sur les activi
+tés des différents acteurs. 
+Ces « traces d™activités » peuvent être plus ou moi
+ns fines, allant du sim-
+ 
+   
+ ple fichier de 
+logs 
+contenant des informations sur les connexions des 
+utilisateurs jusqu™aux traces contenant toutes les 
+interactions des utilisa-
+teurs avec le système. L™exploitation de ces traces
+ recueillies demeure une 
+problématique centrale dans les recherches autour de
+s plates-formes. 
+Les travaux de 
+Vanderbrouk et Cazes
+ concernent l™exploitation de fi-
+chiers traces ou 
+logs
+ contenant des informations sur les actions des uti
+lisa-
+teurs dans une plate-forme d™enseignement dans le d
+omaine des 
+mathématiques. Un modèle didactique permet de passe
+r d™une informa-
+tion quantitative à une analyse qualitative, en vue
+ d™obtenir des rensei-
+gnements sur le fonctionnement didactique des étudi
+ants lors de la 
+réalisation d™exercices. À l™aide de deux indices c
+alculés d™après les activi-
+tés effectivement réalisées par les groupes d™étudi
+ants, l™indice de diffi-
+culté d™un exercice et le rendement (rapport entre 
+la note et le temps 
+passé sur un exercice), les auteurs déterminent alo
+rs 3 classes d™exercice 
+(simples, intermédiaires et difficiles). Cette caté
+gorisation permet par 
+exemple de fournir des informations pour re-concevo
+ir les scénarios ou 
+prévoir l™encadrement afin de mieux atteindre les o
+bjectifs pédagogiques 
+visés. 
+4. Supports pour l™échange et l™interopérabilité au
+ sein 
+d™une communauté de recherche en EIAH 
+Une préoccupation actuelle dans le domaine des EIAH
+ concerne la ré-
+utilisation des produits de recherche développés. E
+n particulier, un re-
+groupement international au sein du Réseau d™Excell
+ence Kaléidoscope 
+(2005), le sous-projet SVL (
+Shared Virtual Laboratory
+), vise à développer 
+une plateforme technologique de services pour la co
+mmunauté de recher-
+che en EIAH (Kaleidoscope, 2005 ; SVL, 2005). Nous 
+présentons dans cette 
+partie deux articles et une rubrique sur ce thème. 
+L™article de 
+Rosselle, Bessagnet et Carron
+ part du constat que peu de 
+logiciels EIAH arrivent réellement à sortir du cont
+exte expérimental des 
+laboratoires pour aller vers une utilisation effecti
+ve dans les classes. Une 
+des raisons soulevées ici est qu™un EIAH ne réalise
+ souvent qu'une partie 
+des fonctionnalités nécessaires pour que l'utilisat
+ion soit efficace et réel-
+lement intégrée dans les pratiques courantes. L™obje
+ctif est alors de propo-
+ser des solutions techniques favorisant l™intégrati
+on de fonctionnalités 
+provenant d™EIAH différents, correspondant à la pro
+blématique globale de 
+l™intégration de composants hétérogènes. L™article 
+se centre sur les spécifi-
+cités particulières des EIAH en insistant sur les q
+uestions à se poser selon 
+certaines dimensions : indexation, échange de donné
+es, IHM, etc. Pour 
+ 
+ 
+ 
+ 
+ illustrer l™intégration d™EIAH, des études de cas s
+ont présentées. En parti-
+culier, deux intégrations d™EIAH sont analysées en 
+détail : l™une porte sur 
+l™utilisation conjointe de fonctionnalités provenan
+t de deux EIAH et 
+l™autre sur la composition de deux applications EIA
+H. En conclusion, les 
+auteurs affirment qu™il est encore trop tôt pour dé
+finir « un modèle 
+d™intégration générique » et propose plutôt des rec
+ommandations pour 
+expérimenter de nouvelles intégrations. 
+Les travaux de 
+Rebaï, Maisonneuve et Labat
+ se situent dans la même 
+lignée. Le constat de départ est identique : il est
+ difficile de construire un 
+environnement EAIH complet. Les nombreuses fonctionn
+alités nécessai-
+res pour qu™un EIAH soit utilisable impliquent forcé
+ment des temps de 
+développement importants. L™idéal serait de pouvoir
+ réutiliser des fonc-
+tionnalités existantes, ce qui nécessite par conséq
+uent une description et 
+indexation des composants logiciels EIAH existants 
+afin de faciliter leur 
+recherche. Un premier résultat des auteurs concerne
+ la définition de qua-
+tre classes de composants logiciels EIAH : pédagogi
+ques, de services, tech-
+niques et enfin de fabrication (outils auteurs). Pui
+s les auteurs montrent 
+les faiblesses des normes et standards actuels pour 
+décrire des composants, 
+notamment pour la description des aspects technique
+s. Un ensemble de 
+métadonnées visant à combler cette lacune est ainsi 
+proposé (LSCM : 
+Learning Software Component Metadata
+). Les métadonnées sont divisées en 
+deux jeux : un jeu commun à tous les composants log
+iciels et un jeu spé-
+cifique en fonction des 4 classes de composants déf
+inies ci-dessus. Enfin, 
+les auteurs décrivent la conception d™un prototype 
+de plate-forme de mu-
+tualisation destinée aux chercheurs en EIAH : 
+Educational Component Repo-
+sitory
+ (ECR). Cette plate-forme est qualifiée de génériqu
+e car elle prend la 
+forme d™un entrepôt de composants logiciels accepta
+nt plusieurs schémas 
+de description (métadonnées). Des expérimentations 
+à venir de la plate-
+forme devraient pouvoir confirmer son utilité pour 
+la communauté EIAH. 
+Dans une rubrique, le collectif 
+AS Plateforme pour la recherche en 
+EIAH
+ décrit sa contribution à l™ingénierie des EIAH. Les
+ résultats présentés 
+sont de trois natures. D™abord une définition de scé
+narios d™usage visant à 
+déterminer les besoins potentiels de la communauté d
+e recherche en 
+EIAH. Puis l™étude technique d™un portail pour la c
+ommunauté, de type 
+open source
+. Enfin, l™identification d™une banque de scénarios 
+pédagogi-
+ques de référence. En vue d™améliorer la diffusion 
+et la réutilisation des 
+résultats de la recherche au sein de la communauté 
+de recherche en EIAH, 
+le projet devrait pouvoir déboucher sur la création 
+d™un portail dédié à la 
+ 
+   
+ communauté de recherche francophone en EIAH, portai
+l dérivé du projet 
+SVL du réseau d™excellence Kaléidoscope.  
+ Figure 3 Ł Synthèse des contributions sur le thème 
+ « Architecture pour l™intégration d™EIAH/approche 
+composant » 
+5. Conclusion 
+Les travaux présentés dans ce numéro spécial de STI
+CEF consacré aux 
+plates-formes pour l™apprentissage fait apparaître 
+plusieurs éléments inté-
+ressants : 
+- il y a une évolution des travaux de recherche sur l
+es EIAH vers une 
+approche plus macroscopique incluant le dispositif 
+de formation dans sa 
+globalité et mettant l™activité de l™apprenant plus 
+en valeur au travers de 
+la modélisation des scénarios pédagogiques. Cette é
+volution est sans 
+doute induite par le rapide développement de l™e-fo
+rmation utilisant le 
+support de l™Internet ; 
+- la communauté de recherche s™est tournée résolument
+ vers le do-
+maine du Génie Logiciel pour lui donner une approch
+e plus solide où les 
+préoccupations de réutilisabilité et d™interopérabil
+ité des environnements 
+EIAH sont devenues plus présentes ; 
+- il y a un souci plus grand également de fournir des
+ méthodes, et des 
+instruments afin de favoriser la collaboration au se
+in de la communauté 
+de recherche en EIAH.  
+ 
+ 
+ 
+ 
+ C™est l™une des retombées de l™action collective men
+ée ces dernières 
+années, notamment au sein du Réseau Thématique Plur
+idisciplinaire 
+« Apprentissage, Formation, Éducation » et de son a
+ction spécifique, pré-
+sentée ici dans la section rubrique. Cette action a 
+également fait l™objet 
+d™une dissémination plus large au travers d™une éco
+le thématique du 
+CNRS qui s™est déroulée en juillet 2005 (ÉcoleEIAH,
+ 2005). 
+Il faut espérer que ce numéro spécial va renforcer 
+cette volonté de col-
+laboration et de mutualisation et faire prendre cons
+cience, notamment 
+aux décideurs et tutelles diverses, que cet effort 
+doit être soutenu au ni-
+veau national et au niveau international, notamment
+ de la francophonie. 
+ BIBLIOGRAPHIE 
+BÉZIVIN J., BLAY M., BOUZHEGOUB M., ESTUBLIER J., F
+AVRE J.-M., GÉRARD 
+S., JÉZÉQUEL J.-M. (2004). Rapport de synthèse de l
+'AS CNRS sur le MDA, CNRS, 
+Novembre 2004, 16 p. 
+DE LA PASSARDIÈRE B., JARRAUD P. (2004), ManUeL, un
+ profil d'application 
+du LOM pour C@mpuSciences®, 
+Revue STICEF
+, Vol. 11, 2004, en ligne sur 
+www.sticef.org, p. 11-57 
+DUVAL E., HODGINS W., SUTTON S., WEIBEL S.L. (2002)
+. Metadata Principles 
+and Practicalities, 
+D-Lib Magazine
+, April 2002, Vol. 8 n°4, ISSN 1082-9873, 
+http://www.dlib.org/dlib/april02/weibel/04weibel.htm
+l
+ GUÉRAUD V., ADAM J.-M., PERNIN J.-P., CALVARY G., D
+AVID J.-P. (2004). 
+L'exploitation d'Objets Pédagogiques Interactifs à 
+distance : le projet FORMID, 
+Revue STICEF
+, Vol. 11, 2004, en ligne sur www.sticef.org, p. 10
+9-163. 
+KOPER R. (2000). From change to renewal: Educationa
+l technology founda-
+tions of electronic learning environments. Report f
+rom the Open University of the 
+Netherlands, 
+http://eml.ou.nl/introduction/docs/koperinaugural-a
+ddress.pdf
+, 50 p. 
+KOPER, R., TATTERSALL, T. (2005). 
+Learning Design: A Handbook on Modelling 
+and Delivering Networked Education and Training
+, Springer, Heidelberg, Germany, 
+ISBN: 3-540-22814-4, 412 p. 
+NODENOT T. (2005). Contribution à l'Ingénierie diri
+gée par les modèles en 
+EIAH : le cas des situations-problèmes coopératives
+, Habilitation à Diriger des Re-
+cherche en informatique, Université de Pau et des P
+ays de l™Adour, septembre 2005, 
+174 p. 
+PAQUETTE G. (2002). 
+Modélisation des connaissances et des compétences. 
+Un lan-
+gage graphique pour concevoir et apprendre
+, Presse Universitaire du Québec, ISBN 2-
+7605-1163-4, 388 p. 
+SCHMIDT D.C. (2006), Guest Editor's Introduction: M
+odel-Driven Engineering, 
+Computer
+, Vol. 39 n°2, February, 2006, IEEE Press, p. 25-31
+. 
+  
+   
+ Références à des sites Internet 
+AFNOR (2005). Site de l™association française de no
+rmalisation,  
+http://www.afnor.fr
+, (consulté en décembre 2005) 
+ASMDA (2005), Site de l™Action Spécifique sur « l'I
+ngénierie Dirigée par les Mo-
+dèles », 
+http://www-adele.imag.fr/mda/as/
+, (consulté en février 2006). 
+ASPF (2005). Site de l™Action Spécifique « Plate-fo
+rme Technologique pour la 
+Recherche en EIAH », 
+http://www.univ-lille1.fr/aspf/
+, (consulté en décembre 2005). 
+ÉcoleEIAH (2005), Site de la troisième École thémat
+ique du CNRS sur les « EIAH 
+modèles, architectures logicielles et normes pour l
+e développement et l'intégration 
+des EIAH », 
+http://ecole-cnrs.univ-lemans.fr/eiah2005/
+, (consulté en novembre 2005). 
+IEEE (2005). IEEE-Learning Technology Standards Com
+mittee (LTSC), WG12: 
+Learning Object Metadata, 
+http://ltsc.ieee.org/wg12/
+, (consulté en décembre 2005). 
+IMS (2003). IMS Learning Design Information Model Œ
+ version 1.0. IMS Global 
+Learning Consortium Inc.,  
+
+http://www.imsglobal.org/learningdesign/index.html
+, (consulté en janvier 2006). 
+Kaleidoscope (2005). Network of Excellence Kaleidos
+cope, 
+http://www.noe-
+kaleidoscope.org/
+, (consulté en décembre 2005). 
+Normetic (2005). Glossaire Normetic,  
+http://www.normetic.org/IMG/pdf/Glossaire_Normetic.p
+df, 
+(consulté de décembre 
+2005). 
+Office de la langue française (2005). Dictionnaire 
+terminologique de l™Office de 
+la langue française, 
+http://www.granddictionnaire.com/
+ (consulté en décembre 2005) 
+RTP39 (2002). Apprentissage, éducation et formation
+. Texte d™orientation du 
+Réseau thématique pluridisciplinaire STIC. CNRSTIC 
+: RTP39, 3 juillet 2002,   
+http://www-rtp39.imag.fr/txtRTP39.pdf
+, 5 p. 
+SVL (2005). Shared Virtual Laboratory Portal, Kalei
+doscope, 
+http://trg47.univ-
+lille1.fr/svl
+, (consulté en décembre 2005). 
+"
